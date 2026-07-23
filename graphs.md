@@ -9,3 +9,7 @@
 ## Batch Normalization
 <img width="233" height="175" alt="Image" src="https://github.com/user-attachments/assets/79a0d70d-5bea-44c3-abb1-a1065d5f8e4e" />
 <img width="241" height="176" alt="Image" src="https://github.com/user-attachments/assets/d400ab45-992d-44cf-92fc-8c873a5b83c5" />
+
+## 50 Epochs
+<img width="238" height="175" alt="Image" src="https://github.com/user-attachments/assets/893366a1-5fdd-4116-b4ec-6edaa9b89810" />
+<img width="237" height="179" alt="Image" src="https://github.com/user-attachments/assets/4ea7417d-ec2f-4774-9970-8db6107aa3fb" />
